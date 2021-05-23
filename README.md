@@ -1,2 +1,1 @@
-# MyVampireGame
-infinite game
+# theOriginals-v6
