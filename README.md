@@ -1,0 +1,2 @@
+# MyVampireGame
+infinite game
